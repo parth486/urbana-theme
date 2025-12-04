@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Landing page for book
- * Slug: urbana/page-landing-book
- * Categories: urbana_page, featured
+ * Slug: urbana-theme/page-landing-book
+ * Categories: urbana_theme_page, featured
  * Keywords: starter
  * Block Types: core/post-content
  * Post Types: page, wp_template
@@ -11,14 +11,14 @@
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>
 
-<!-- wp:pattern {"slug":"urbana/hero-book"} /-->
-<!-- wp:pattern {"slug":"urbana/cta-book-links"} /-->
-<!-- wp:pattern {"slug":"urbana/banner-about-book"} /-->
-<!-- wp:pattern {"slug":"urbana/cta-book-locations"} /-->
-<!-- wp:pattern {"slug":"urbana/text-faqs"} /-->
-<!-- wp:pattern {"slug":"urbana/cta-newsletter"} /-->
+<!-- wp:pattern {"slug":"urbana-theme/hero-book"} /-->
+<!-- wp:pattern {"slug":"urbana-theme/cta-book-links"} /-->
+<!-- wp:pattern {"slug":"urbana-theme/banner-about-book"} /-->
+<!-- wp:pattern {"slug":"urbana-theme/cta-book-locations"} /-->
+<!-- wp:pattern {"slug":"urbana-theme/text-faqs"} /-->
+<!-- wp:pattern {"slug":"urbana-theme/cta-newsletter"} /-->

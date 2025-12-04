@@ -1,14 +1,14 @@
 <?php
 /**
  * Title: Centered footer
- * Slug: urbana/footer-centered
+ * Slug: urbana-theme/footer-centered
  * Categories: footer
  * Block Types: core/template-part/footer
  * Description: Footer with centered site title and tagline.
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>
@@ -30,8 +30,8 @@
 		<?php
 		printf(
 			/* translators: Designed with WordPress. %s: WordPress link. */
-			esc_html__( 'Designed with %s', 'urbana' ),
-			'<a href="' . esc_url( __( 'https://wordpress.org', 'urbana' ) ) . '" rel="nofollow">WordPress</a>'
+			esc_html__( 'Designed with %s', 'urbana-theme' ),
+			'<a href="' . esc_url( __( 'https://wordpress.org', 'urbana-theme' ) ) . '" rel="nofollow">WordPress</a>'
 		);
 		?>
 	</p>

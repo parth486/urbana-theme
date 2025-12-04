@@ -1,14 +1,14 @@
 <?php
 /**
  * Title: Photo blog home
- * Slug: urbana/template-home-photo-blog
+ * Slug: urbana-theme/template-home-photo-blog
  * Template Types: front-page, index, home
  * Viewport width: 1400
  * Inserter: no
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>
@@ -19,14 +19,14 @@
 	<!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
 	<div class="wp-block-group">
 		<!-- wp:heading {"textAlign":"center","level":1,"className":"is-style-text-annotation"} -->
-		<h1 class="wp-block-heading has-text-align-center is-style-text-annotation"><?php esc_html_e( 'Stories', 'urbana' ); ?></h1>
+		<h1 class="wp-block-heading has-text-align-center is-style-text-annotation"><?php esc_html_e( 'Stories', 'urbana-theme' ); ?></h1>
 		<!-- /wp:heading -->
 	</div>
 	<!-- /wp:group -->
 	<!-- wp:heading {"textAlign":"center","align":"wide","fontSize":"xx-large"} -->
-	<h2 class="wp-block-heading alignwide has-text-align-center has-xx-large-font-size"><?php esc_html_e( 'Tell your story', 'urbana' ); ?></h2>
+	<h2 class="wp-block-heading alignwide has-text-align-center has-xx-large-font-size"><?php esc_html_e( 'Tell your story', 'urbana-theme' ); ?></h2>
 	<!-- /wp:heading -->
-	<!-- wp:pattern {"slug":"urbana/template-query-loop-photo-blog"} /-->
+	<!-- wp:pattern {"slug":"urbana-theme/template-query-loop-photo-blog"} /-->
 </main>
 <!-- /wp:group -->
 

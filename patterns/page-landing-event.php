@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Landing page for event
- * Slug: urbana/page-landing-event
- * Categories: urbana_page, featured
+ * Slug: urbana-theme/page-landing-event
+ * Categories: urbana_theme_page, featured
  * Keywords: starter
  * Block Types: core/post-content
  * Post Types: page, wp_template
@@ -11,13 +11,13 @@
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>
 
-<!-- wp:pattern {"slug":"urbana/hero-full-width-image"} /-->
-<!-- wp:pattern {"slug":"urbana/heading-and-paragraph-with-image"} /-->
-<!-- wp:pattern {"slug":"urbana/banner-description-images-grid"} /-->
-<!-- wp:pattern {"slug":"urbana/text-faqs"} /-->
-<!-- wp:pattern {"slug":"urbana/contact-centered-social-link"} /-->
+<!-- wp:pattern {"slug":"urbana-theme/hero-full-width-image"} /-->
+<!-- wp:pattern {"slug":"urbana-theme/heading-and-paragraph-with-image"} /-->
+<!-- wp:pattern {"slug":"urbana-theme/banner-description-images-grid"} /-->
+<!-- wp:pattern {"slug":"urbana-theme/text-faqs"} /-->
+<!-- wp:pattern {"slug":"urbana-theme/contact-centered-social-link"} /-->

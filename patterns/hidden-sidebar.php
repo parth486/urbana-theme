@@ -1,17 +1,17 @@
 <?php
 /**
  * Title: Sidebar
- * Slug: urbana/hidden-sidebar
+ * Slug: urbana-theme/hidden-sidebar
  * Inserter: no
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>
 <!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","textTransform":"uppercase","letterSpacing":"1.6px"}},"fontSize":"small"} -->
-<h2 class="wp-block-heading has-small-font-size" style="font-style:normal;font-weight:600;letter-spacing:1.6px;text-transform:uppercase"><?php esc_html_e( 'Other Posts', 'urbana' ); ?></h2>
+<h2 class="wp-block-heading has-small-font-size" style="font-style:normal;font-weight:600;letter-spacing:1.6px;text-transform:uppercase"><?php esc_html_e( 'Other Posts', 'urbana-theme' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"var:preset|spacing|40"} -->
@@ -34,8 +34,8 @@
 	<!-- /wp:post-template -->
 
 	<!-- wp:query-no-results -->
-		<!-- wp:paragraph {"placeholder":"<?php esc_attr_e( 'Add text or blocks that will display when a query returns no results.', 'urbana' ); ?>","fontSize":"medium"} -->
-		<p class="has-medium-font-size"><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'urbana' ); ?></p>
+		<!-- wp:paragraph {"placeholder":"<?php esc_attr_e( 'Add text or blocks that will display when a query returns no results.', 'urbana-theme' ); ?>","fontSize":"medium"} -->
+		<p class="has-medium-font-size"><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'urbana-theme' ); ?></p>
 		<!-- /wp:paragraph -->
 	<!-- /wp:query-no-results -->
 </div>

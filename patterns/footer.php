@@ -1,14 +1,14 @@
 <?php
 /**
  * Title: Footer
- * Slug: urbana/footer
+ * Slug: urbana-theme/footer
  * Categories: footer
  * Block Types: core/template-part/footer
  * Description: Footer columns with logo, title, tagline and links.
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>
@@ -42,23 +42,23 @@
 			<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|80"}},"layout":{"type":"flex","flexWrap":"wrap","verticalAlignment":"top","justifyContent":"space-between"}} -->
 			<div class="wp-block-group">
 				<!-- wp:navigation {"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical"}} -->
-					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Blog', 'urbana' ); ?>","url":"#"} /-->
+					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Blog', 'urbana-theme' ); ?>","url":"#"} /-->
 
-					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'About', 'urbana' ); ?>","url":"#"} /-->
+					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'About', 'urbana-theme' ); ?>","url":"#"} /-->
 
-					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'FAQs', 'urbana' ); ?>","url":"#"} /-->
+					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'FAQs', 'urbana-theme' ); ?>","url":"#"} /-->
 
-					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Authors', 'urbana' ); ?>","url":"#"} /-->
+					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Authors', 'urbana-theme' ); ?>","url":"#"} /-->
 				<!-- /wp:navigation -->
 
 				<!-- wp:navigation {"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical"}} -->
-					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Events', 'urbana' ); ?>","url":"#"} /-->
+					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Events', 'urbana-theme' ); ?>","url":"#"} /-->
 
-					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Shop', 'urbana' ); ?>","url":"#"} /-->
+					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Shop', 'urbana-theme' ); ?>","url":"#"} /-->
 
-					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Patterns', 'urbana' ); ?>","url":"#"} /-->
+					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Patterns', 'urbana-theme' ); ?>","url":"#"} /-->
 
-					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Themes', 'urbana' ); ?>","url":"#"} /-->
+					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Themes', 'urbana-theme' ); ?>","url":"#"} /-->
 				<!-- /wp:navigation -->
 			</div>
 				<!-- /wp:group -->
@@ -72,15 +72,15 @@
 		<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
 		<div class="wp-block-group alignfull">
 			<!-- wp:paragraph {"fontSize":"small"} -->
-			<p class="has-small-font-size"><?php esc_html_e( 'Urbana', 'urbana' ); ?></p>
+			<p class="has-small-font-size"><?php esc_html_e( 'Urbana Theme', 'urbana-theme' ); ?></p>
 			<!-- /wp:paragraph -->
 			<!-- wp:paragraph {"fontSize":"small"} -->
 			<p class="has-small-font-size">
 				<?php
 				printf(
 					/* translators: Designed with WordPress. %s: WordPress link. */
-					esc_html__( 'Designed with %s', 'urbana' ),
-					'<a href="' . esc_url( __( 'https://wordpress.org', 'urbana' ) ) . '" rel="nofollow">WordPress</a>'
+					esc_html__( 'Designed with %s', 'urbana-theme' ),
+					'<a href="' . esc_url( __( 'https://wordpress.org', 'urbana-theme' ) ) . '" rel="nofollow">WordPress</a>'
 				);
 				?>
 			</p>

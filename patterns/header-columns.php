@@ -1,14 +1,14 @@
 <?php
 /**
  * Title: Header with columns
- * Slug: urbana/header-columns
+ * Slug: urbana-theme/header-columns
  * Categories: header
  * Block Types: core/template-part/header
  * Description: Site header with site title and navigation in columns.
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>

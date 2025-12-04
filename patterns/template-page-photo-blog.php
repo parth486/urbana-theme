@@ -1,13 +1,13 @@
 <?php
 /**
  * Title: Photo blog page
- * Slug: urbana/template-page-photo-blog
+ * Slug: urbana-theme/template-page-photo-blog
  * Template Types: page
  * Viewport width: 1400
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>

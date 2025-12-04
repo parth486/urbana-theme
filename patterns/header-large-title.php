@@ -1,14 +1,14 @@
 <?php
 /**
  * Title: Header with large title
- * Slug: urbana/header-large-title
+ * Slug: urbana-theme/header-large-title
  * Categories: header
  * Block Types: core/template-part/header
  * Description: Site header with large site title and right-aligned navigation.
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>

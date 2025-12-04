@@ -1,14 +1,14 @@
 <?php
 /**
  * Title: Right-aligned home
- * Slug: urbana/template-home-vertical-header-blog
+ * Slug: urbana-theme/template-home-vertical-header-blog
  * Template Types: front-page, index, home
  * Viewport width: 1400
  * Inserter: no
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>
@@ -27,12 +27,12 @@
 			<!-- wp:spacer {"height":"var:preset|spacing|50"} -->
 			<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
 			<!-- /wp:spacer -->
-			<!-- wp:pattern {"slug":"urbana/hidden-blog-heading"} /-->
+			<!-- wp:pattern {"slug":"urbana-theme/hidden-blog-heading"} /-->
 			<!-- wp:spacer {"height":"var:preset|spacing|50"} -->
 			<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
 			<!-- /wp:spacer -->
 
-			<!-- wp:pattern {"slug":"urbana/template-query-loop-vertical-header-blog"} /-->
+			<!-- wp:pattern {"slug":"urbana-theme/template-query-loop-vertical-header-blog"} /-->
 
 			<!-- wp:spacer {"height":"var:preset|spacing|50"} -->
 			<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>

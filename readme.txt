@@ -1,8 +1,8 @@
-== Urbana ==
+== Urbana Theme ==
 
 Contributors: Urbana Designs
-Requires at least: 6.8
-Tested up to: 6.8
+Requires at least: 6.9
+Tested up to: 6.9
 Requires PHP: 5.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-A theme for Urbana.au
+Urbana Theme
 
 
 == Changelog ==
@@ -21,8 +21,8 @@ A theme for Urbana.au
 
 == Copyright ==
 
-Urbana WordPress Theme, (C) 2025 Urbana Designs
-Urbana is distributed under the terms of the GNU GPL.
+Urbana Theme WordPress Theme, (C) 2025 Urbana Designs
+Urbana Theme is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -35,5 +35,5 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 
-Urbana is based on Twenty Twenty-Five (https://wordpress.org/themes/twentytwentyfive/), (C) the WordPress team, [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
+Urbana Theme is based on Twenty Twenty-Five (https://wordpress.org/themes/twentytwentyfive/), (C) the WordPress team, [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
 

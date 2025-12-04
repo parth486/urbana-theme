@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Business homepage
- * Slug: urbana/page-business-home
- * Categories: urbana_page, featured
+ * Slug: urbana-theme/page-business-home
+ * Categories: urbana_theme_page, featured
  * Keywords: starter
  * Block Types: core/post-content
  * Post Types: page, wp_template
@@ -11,14 +11,14 @@
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>
 
-<!-- wp:pattern {"slug":"urbana/cta-centered-heading"} /-->
-<!-- wp:pattern {"slug":"urbana/overlapped-images"} /-->
-<!-- wp:pattern {"slug":"urbana/services-3-col"} /-->
-<!-- wp:pattern {"slug":"urbana/testimonials-large"} /-->
-<!-- wp:pattern {"slug":"urbana/pricing-2-col"} /-->
-<!-- wp:pattern {"slug":"urbana/cta-newsletter"} /-->
+<!-- wp:pattern {"slug":"urbana-theme/cta-centered-heading"} /-->
+<!-- wp:pattern {"slug":"urbana-theme/overlapped-images"} /-->
+<!-- wp:pattern {"slug":"urbana-theme/services-3-col"} /-->
+<!-- wp:pattern {"slug":"urbana-theme/testimonials-large"} /-->
+<!-- wp:pattern {"slug":"urbana-theme/pricing-2-col"} /-->
+<!-- wp:pattern {"slug":"urbana-theme/cta-newsletter"} /-->

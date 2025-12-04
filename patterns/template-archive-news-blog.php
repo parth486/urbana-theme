@@ -1,14 +1,14 @@
 <?php
 /**
  * Title: News blog archive
- * Slug: urbana/template-archive-news-blog
+ * Slug: urbana-theme/template-archive-news-blog
  * Template Types: archive
  * Viewport width: 1400
  * Inserter: no
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>
@@ -30,7 +30,7 @@
 	<!-- /wp:group -->
 	<!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 	<div class="wp-block-group alignwide">
-		<!-- wp:pattern {"slug":"urbana/template-query-loop-news-blog"} /-->
+		<!-- wp:pattern {"slug":"urbana-theme/template-query-loop-news-blog"} /-->
 	</div>
 	<!-- /wp:group -->
 </main>

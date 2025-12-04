@@ -1,14 +1,14 @@
 <?php
 /**
  * Title: Photo blog search results
- * Slug: urbana/template-search-photo-blog
+ * Slug: urbana-theme/template-search-photo-blog
  * Template Types: search
  * Viewport width: 1400
  * Inserter: no
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>
@@ -19,10 +19,10 @@
 	<!-- wp:query-title {"type":"search","textAlign":"center","align":"wide"} /-->
 	<!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 	<div class="wp-block-group alignwide">
-		<!-- wp:pattern {"slug":"urbana/hidden-search"} /-->
+		<!-- wp:pattern {"slug":"urbana-theme/hidden-search"} /-->
 	</div>
 	<!-- /wp:group -->
-	<!-- wp:pattern {"slug":"urbana/template-query-loop-photo-blog"} /-->
+	<!-- wp:pattern {"slug":"urbana-theme/template-query-loop-photo-blog"} /-->
 </main>
 <!-- /wp:group -->
 

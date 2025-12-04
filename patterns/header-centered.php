@@ -1,14 +1,14 @@
 <?php
 /**
  * Title: Centered site header
- * Slug: urbana/header-centered
+ * Slug: urbana-theme/header-centered
  * Categories: header
  * Block Types: core/template-part/header
  * Description: Site header with centered site title and navigation.
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>

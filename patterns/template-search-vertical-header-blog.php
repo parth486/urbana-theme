@@ -1,14 +1,14 @@
 <?php
 /**
  * Title: Right-aligned blog, search
- * Slug: urbana/template-search-vertical-header-blog
+ * Slug: urbana-theme/template-search-vertical-header-blog
  * Template Types: search
  * Viewport width: 1400
  * Inserter: no
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>
@@ -27,11 +27,11 @@
 			<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
 			<!-- /wp:spacer -->
 			<!-- wp:query-title {"type":"search","fontSize":"large"} /-->
-			<!-- wp:pattern {"slug":"urbana/hidden-search"} /-->
+			<!-- wp:pattern {"slug":"urbana-theme/hidden-search"} /-->
 			<!-- wp:spacer {"height":"var:preset|spacing|50"} -->
 			<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
 			<!-- /wp:spacer -->
-			<!-- wp:pattern {"slug":"urbana/template-query-loop-vertical-header-blog"} /-->
+			<!-- wp:pattern {"slug":"urbana-theme/template-query-loop-vertical-header-blog"} /-->
 			<!-- wp:spacer {"height":"var:preset|spacing|50"} -->
 			<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
 			<!-- /wp:spacer -->

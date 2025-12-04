@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Vertical site header
- * Slug: urbana/vertical-header
+ * Slug: urbana-theme/vertical-header
  * Categories: header
  * Block Types: core/template-part/vertical-header
  * Description: Vertical site header with site title and navigation.
@@ -9,7 +9,7 @@
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>

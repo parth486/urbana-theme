@@ -1,13 +1,13 @@
 <?php
 /**
  * Title: Right-aligned page
- * Slug: urbana/template-page-vertical-header-blog
+ * Slug: urbana-theme/template-page-vertical-header-blog
  * Template Types: page
  * Viewport width: 1400
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>

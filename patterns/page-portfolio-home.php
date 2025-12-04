@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Portfolio homepage
- * Slug: urbana/page-portfolio-home
- * Categories: urbana_page, posts
+ * Slug: urbana-theme/page-portfolio-home
+ * Categories: urbana_theme_page, posts
  * Keywords: starter
  * Block Types: core/post-content
  * Post Types: page, wp_template
@@ -11,7 +11,7 @@
  *
  * @package WordPress
  * @subpackage Twenty_Twenty_Five
- * @since Urbana 1.0
+ * @since Urbana Theme 1.0
  */
 
 ?>
@@ -24,7 +24,7 @@
 			<!-- wp:column {"width":"50%"} -->
 			<div class="wp-block-column" style="flex-basis:50%">
 				<!-- wp:heading {"align":"wide","fontSize":"x-large"} -->
-				<h2 class="wp-block-heading alignwide has-x-large-font-size"><?php esc_html_e( 'My name is Anna Möller and these are some of my photo projects.', 'urbana' ); ?></h2>
+				<h2 class="wp-block-heading alignwide has-x-large-font-size"><?php esc_html_e( 'My name is Anna Möller and these are some of my photo projects.', 'urbana-theme' ); ?></h2>
 				<!-- /wp:heading -->
 			</div>
 			<!-- /wp:column -->
@@ -62,7 +62,7 @@
 				<!-- /wp:post-template -->
 				<!-- wp:query-no-results -->
 				<!-- wp:paragraph -->
-				<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'urbana' ); ?></p>
+				<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'urbana-theme' ); ?></p>
 				<!-- /wp:paragraph -->
 				<!-- /wp:query-no-results -->
 			</div>
@@ -84,7 +84,7 @@
 				<!-- /wp:post-template -->
 				<!-- wp:query-no-results -->
 				<!-- wp:paragraph -->
-				<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'urbana' ); ?></p>
+				<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'urbana-theme' ); ?></p>
 				<!-- /wp:paragraph -->
 				<!-- /wp:query-no-results -->
 			</div>
@@ -118,7 +118,7 @@
 		<!-- /wp:post-template -->
 		<!-- wp:query-no-results -->
 		<!-- wp:paragraph -->
-		<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'urbana' ); ?></p>
+		<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'urbana-theme' ); ?></p>
 		<!-- /wp:paragraph -->
 		<!-- /wp:query-no-results -->
 	</div>
@@ -151,7 +151,7 @@
 				<!-- /wp:post-template -->
 				<!-- wp:query-no-results -->
 				<!-- wp:paragraph -->
-				<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'urbana' ); ?></p>
+				<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'urbana-theme' ); ?></p>
 				<!-- /wp:paragraph -->
 				<!-- /wp:query-no-results -->
 			</div>
@@ -173,7 +173,7 @@
 				<!-- /wp:post-template -->
 				<!-- wp:query-no-results -->
 				<!-- wp:paragraph -->
-				<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'urbana' ); ?></p>
+				<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'urbana-theme' ); ?></p>
 				<!-- /wp:paragraph -->
 				<!-- /wp:query-no-results -->
 			</div>
@@ -200,7 +200,7 @@
 		<!-- /wp:post-template -->
 		<!-- wp:query-no-results -->
 		<!-- wp:paragraph -->
-		<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'urbana' ); ?></p>
+		<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'urbana-theme' ); ?></p>
 		<!-- /wp:paragraph -->
 		<!-- /wp:query-no-results -->
 	</div>
@@ -223,10 +223,10 @@
 		<!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 		<div class="wp-block-group alignwide">
 			<!-- wp:paragraph {"fontSize":"small"} -->
-			<p class="has-small-font-size"><?php esc_html_e( 'Urbana', 'urbana' ); ?></p>
+			<p class="has-small-font-size"><?php esc_html_e( 'Urbana Theme', 'urbana-theme' ); ?></p>
 			<!-- /wp:paragraph -->
 			<!-- wp:paragraph {"fontSize":"small"} -->
-			<p class="has-small-font-size"><?php esc_html_e( 'email@example.com', 'urbana' ); ?><br><?php echo esc_html_x( '+1 555 349 1806', 'Phone number.', 'urbana' ); ?></p>
+			<p class="has-small-font-size"><?php esc_html_e( 'email@example.com', 'urbana-theme' ); ?><br><?php echo esc_html_x( '+1 555 349 1806', 'Phone number.', 'urbana-theme' ); ?></p>
 			<!-- /wp:paragraph -->
 		</div>
 		<!-- /wp:group -->
